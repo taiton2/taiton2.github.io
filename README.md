@@ -1,0 +1,3 @@
+# tiaton2.github.io
+Se me esta asiendo rogar git y github y por supuesto mis neuronas jajaja...
+y aun no se que ocurre!
