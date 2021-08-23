@@ -1,0 +1,11 @@
+body{
+    background-color: blueviolet;
+}
+.main{
+    width: 80%;
+    color: darkblue;
+}
+.header{
+    font-size: medium;
+    color: darkorange;
+}
